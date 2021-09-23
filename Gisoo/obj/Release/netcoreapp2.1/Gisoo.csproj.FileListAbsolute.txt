@@ -1,0 +1,530 @@
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\appsettings.json
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.deps.json
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.runtimeconfig.json
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.runtimeconfig.dev.json
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.dll
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.pdb
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.Views.dll
+D:\Projects\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.Views.pdb
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.AssemblyReference.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.AssemblyInfoInputs.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.AssemblyInfo.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.CoreCompileInputs.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorAssemblyInfo.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorAssemblyInfo.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.TagHelpers.input.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.TagHelpers.output.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorCoreGenerate.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AboutUs\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AcceptManagement\Lines.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Details.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AllPrice\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AndroidVersion\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Area.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\DeleteArea.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\DeleteProvince.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Province.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Details.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CntactUs\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AboutUs.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Academy.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentDetail.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentList.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentListPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearch.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearchPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearchWithType.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleDetail.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleList.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleListPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ChangeRolePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomDetail.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomList.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomListPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ContactUs.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\CustomerFactorCreator.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorChargeAccount.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreator.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorExtent.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorForReserveClient.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorLadder.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorPartial\FactorPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\HairStylist.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineDetail.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineList.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineListPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Login.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Member.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Mentor.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeDetail.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeList.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeListPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductDetail.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductList.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductListPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProfilePartialFolder\ProfilePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProfileUserSingle.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Register.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Rule.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\SalonOwner.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\SelectUserType.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Store.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Student.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\StudentPartial\_AllReservedClasses.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\StudentPartial\_AllReservedPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\UserList.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\UserListPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllAdvertismentPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllClassRoomPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllLinePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllNoticePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllProductPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllReserveThisUserPatial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterAdvertismentPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterClassRoomForReservePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterClassRoomPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterLineForReservePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterLinePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterNoticePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterProductPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_ResearveWeekPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_VisitPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_WeekDateEditPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_WeekDatePartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Factor\HistoryItems.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Factor\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Information\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Details.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\RegisterLineForReserve.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\ReserveWeekEdit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Details.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Rule\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_AdvisorLayout.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerHomeLayout.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerLoginLayout.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerProfileLayout.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Create.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Details.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\AdminUser.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Login.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorTargetAssemblyInfo.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorTargetAssemblyInfo.cs
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.Views.pdb
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.dll
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.pdb
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.genruntimeconfig.cache
+D:\Projects\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.CopyComplete
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\appsettings.json
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.deps.json
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.runtimeconfig.json
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.runtimeconfig.dev.json
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.dll
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.pdb
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.Views.dll
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\bin\Release\netcoreapp2.1\Gisoo.Views.pdb
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.AssemblyReference.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.AssemblyInfoInputs.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.AssemblyInfo.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.CoreCompileInputs.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorAssemblyInfo.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorAssemblyInfo.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.TagHelpers.input.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.TagHelpers.output.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorCoreGenerate.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AboutUs\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AcceptManagement\Lines.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Details.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AllPrice\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AndroidVersion\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Area.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\DeleteArea.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\DeleteProvince.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Province.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Details.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CntactUs\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AboutUs.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Academy.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentDetail.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentList.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentListPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearch.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearchPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearchWithType.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleDetail.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleList.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleListPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ChangeRolePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomDetail.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomList.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomListPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ContactUs.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\CustomerFactorCreator.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorChargeAccount.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreator.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorExtent.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorForReserveClient.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorLadder.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorPartial\FactorPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\HairStylist.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineDetail.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineList.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineListPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Login.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Member.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Mentor.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeDetail.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeList.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeListPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductDetail.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductList.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductListPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProfilePartialFolder\ProfilePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProfileUserSingle.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Register.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Rule.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\SalonOwner.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\SelectUserType.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Store.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Student.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\StudentPartial\_AllReservedClasses.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\StudentPartial\_AllReservedPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\UserList.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\UserListPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllAdvertismentPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllClassRoomPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllLinePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllNoticePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllProductPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllReserveThisUserPatial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterAdvertismentPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterClassRoomForReservePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterClassRoomPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterLineForReservePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterLinePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterNoticePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterProductPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_ResearveWeekPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_VisitPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_WeekDateEditPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_WeekDatePartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Factor\HistoryItems.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Factor\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Information\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Details.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\RegisterLineForReserve.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\ReserveWeekEdit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Details.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Rule\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_AdvisorLayout.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerHomeLayout.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerLoginLayout.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerProfileLayout.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Create.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Details.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\AdminUser.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Login.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorTargetAssemblyInfo.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorTargetAssemblyInfo.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.Views.pdb
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.dll
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.pdb
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.genruntimeconfig.cache
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.CopyComplete
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeAd.cshtml.g.cs
+D:\Projects\Gisoo Porject\Gisoo\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Ad_List.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\Gisoo.deps.json
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\Gisoo.runtimeconfig.json
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\Gisoo.runtimeconfig.dev.json
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\Gisoo.dll
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\Gisoo.pdb
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\Gisoo.Views.dll
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\bin\Release\netcoreapp2.1\Gisoo.Views.pdb
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.AssemblyReference.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.AssemblyInfoInputs.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.AssemblyInfo.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.CoreCompileInputs.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorAssemblyInfo.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorAssemblyInfo.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.TagHelpers.input.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.TagHelpers.output.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorCoreGenerate.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AboutUs\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AcceptManagement\Lines.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Details.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Advertisment\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AllPrice\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\AndroidVersion\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Article\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Banners\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Area.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\DeleteArea.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\DeleteProvince.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\City\Province.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoomType\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Details.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\ClassRoom\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CntactUs\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AboutUs.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Academy.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentDetail.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentList.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AdvertismentListPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Ad_List.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearch.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearchPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\AllSearchWithType.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleDetail.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleList.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ArticleListPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ChangeRolePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomDetail.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomList.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ClassRoomListPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ContactUs.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\CustomerFactorCreator.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorChargeAccount.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreator.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorExtent.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorForReserveClient.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorCreatorLadder.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\FactorPartial\FactorPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\HairStylist.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineDetail.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineList.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\LineListPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Login.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Member.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Mentor.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeAd.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeDetail.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeList.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\NoticeListPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductDetail.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductList.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProductListPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProfilePartialFolder\ProfilePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\ProfileUserSingle.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Register.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Rule.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\SalonOwner.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\SelectUserType.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Store.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\Student.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\StudentPartial\_AllReservedClasses.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\StudentPartial\_AllReservedPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\UserList.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\UserListPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllAdvertismentPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllClassRoomPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllLinePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllNoticePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllProductPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_AllReserveThisUserPatial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterAdvertismentPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterClassRoomForReservePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterClassRoomPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterLineForReservePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterLinePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterNoticePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_RegisterProductPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_ResearveWeekPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_VisitPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_WeekDateEditPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\CustomerHome\_WeekDatePartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Factor\HistoryItems.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Factor\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Information\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\LineType\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Details.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\RegisterLineForReserve.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Line\ReserveWeekEdit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Details.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Notice\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Rule\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_AdvisorLayout.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerHomeLayout.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerLoginLayout.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CustomerProfileLayout.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Create.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Details.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\Sliders\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\AdminUser.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorTargetAssemblyInfo.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.RazorTargetAssemblyInfo.cs
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.Views.pdb
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.dll
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.pdb
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.genruntimeconfig.cache
+C:\Users\Razmjoo\Desktop\Gisoo-main\Gisoo\obj\Release\netcoreapp2.1\Gisoo.csproj.CopyComplete

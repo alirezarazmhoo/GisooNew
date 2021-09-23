@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Gisoo Porject\Gosoo_Publish</_PublishTargetUrl>
+    <History>True|2021-08-08T12:32:19.4918112Z;True|2021-08-07T20:06:20.4813184+04:30;True|2021-08-07T15:15:55.6185214+04:30;True|2021-08-07T15:06:05.1219111+04:30;True|2021-08-07T09:52:24.7080354+04:30;True|2021-08-05T13:54:01.4342609+04:30;True|2021-08-04T17:06:29.3707062+04:30;True|2021-08-03T16:41:38.9191097+04:30;</History>
+  </PropertyGroup>
+</Project>
